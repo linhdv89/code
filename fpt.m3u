@@ -18,11 +18,11 @@ udp://@225.1.1.2:30120
 udp://@225.1.4.200:30120
 #EXTINF:-1 group-title="FPT Service",Pladio
 udp://@225.1.2.244:30120
-#EXTINF:-1 group-title="FPT Service",Event
+#EXTINF:-1 group-title="FPT Service",Event 1
 udp://@225.1.1.27:30120
-#EXTINF:-1 group-title="FPT Service",Event
+#EXTINF:-1 group-title="FPT Service",Event 2
 udp://@225.1.1.28:30120
-#EXTINF:-1 group-title="FPT Service",Event
+#EXTINF:-1 group-title="FPT Service",Event 3
 udp://@225.1.1.31:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD
 udp://@225.1.1.65:30120
