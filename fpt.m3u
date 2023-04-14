@@ -15,12 +15,14 @@ udp://@225.1.1.30:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 7
 udp://@225.1.1.31:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 8
-udp://@225.1.1.33:30120
+udp://@225.1.1.32:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 9
-udp://@225.1.1.68:30120
+udp://@225.1.1.33:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 10
-udp://@225.1.1.69:30120
+udp://@225.1.1.68:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 11
+udp://@225.1.1.69:30120
+#EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://i.imgur.com/iuGGPYy.png",FEED 12
 udp://@225.1.1.70:30120
 #-------------------VTV-------------------#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 (HD 8Mbps)
