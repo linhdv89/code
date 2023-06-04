@@ -247,7 +247,7 @@ udp://@225.1.2.58:30120
 udp://@225.1.1.133:30120
 #EXTINF:-1 group-title="🏠|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Logo_BTV_HD_B%C3%ACnh_Thu%E1%BA%ADn_c%C3%B3_website.png/revision/latest?cb=20210424054415&path-prefix=vi",Bình Thuận
 udp://@225.1.1.124:30120
-#EXTINF:-1 group-title="🏠|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/KRT_K%E1%BA%BFt_N%E1%BB%91i.png/revision/latest/scale-to-width-down/530?cb=20210920072915&path-prefix=vi",KKon Tum
+#EXTINF:-1 group-title="🏠|Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/KRT_K%E1%BA%BFt_N%E1%BB%91i.png/revision/latest/scale-to-width-down/530?cb=20210920072915&path-prefix=vi",Kon Tum
 udp://@225.1.1.36:30120
 #EXTINF:-1 group-title="🏠|Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/811.png",Gia Lai
 udp://@225.1.2.176:30120
