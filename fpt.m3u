@@ -378,9 +378,9 @@ udp://@225.1.1.46:30120
 udp://@225.1.2.227:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 (English) (HD 8Mbps)
 udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 8Mbps) 1
 udp://@225.1.1.112:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 8Mbps) 2
 udp://@225.1.2.233:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 8Mbps)
 udp://@225.1.1.196:30120
@@ -452,9 +452,9 @@ udp://@225.1.4.75:30120
 udp://@225.1.4.20:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 (HD 4Mbps)
 udp://@225.1.4.212:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 4Mbps) 1
 udp://@225.1.4.90:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 4Mbps) 2
 udp://@225.1.4.183:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 4Mbps)
 udp://@225.1.4.214:30120
@@ -511,12 +511,10 @@ udp://@225.1.4.85:30120
 udp://@225.1.4.74:30120
 #EXTINF:-1 group-title="FPT Play",H1 HD _ TH Hà Nội x
 udp://@225.1.4.203:30120
-#EXTINF:-1 group-title="FPT Play",VGS Shop x
-udp://@225.1.4.204:30120
 #EXTINF:-1 group-title="FPT Play",VTC12 x
 udp://@225.1.4.51:30120
 #EXTINF:-1 group-title="FPT Play",CNBC x
-udp://@225.1.4.77:30120
+udp://@225.1.4.77:30120 
 #EXTINF:-1 group-title="FPT Play",THVL4 HD x
 udp://@225.1.4.217:30120
 #EXTINF:-1 group-title="FPT Play",VOV TV x
@@ -636,7 +634,7 @@ udp://@225.1.4.163:30120
 #EXTINF:-1 group-title="FPT Play",Trà Vinh HD x
 udp://@225.1.4.164:30120
 #EXTINF:-1 group-title="FPT Play",Tuyên Quang HD x
-udp://@225.1.4.165:30120
+udp://@225.1.4.165:30120 
 #EXTINF:-1 group-title="FPT Play",Vĩnh Phúc HD x
 udp://@225.1.4.166:30120
 #EXTINF:-1 group-title="FPT Play",Yên Bái x
@@ -645,267 +643,46 @@ udp://@225.1.4.167:30120
 udp://@225.1.4.171:30120
 #EXTINF:-1 group-title="FPT Play",Vũng Tàu HD x
 udp://@225.1.4.172:30120
-#EXTINF:-1 group-title="FPT Play",Hải Phòng+ HD x
+#EXTINF:-1 group-title="FPT Play",Hải Phòng + HD x
 udp://@225.1.4.178:30120
 #-------------------FPT Service-------------------#
-#EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình 
-udp://@225.1.1.2:30120
-#EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình 1
-udp://@225.1.4.199:30120
-#EXTINF:-1 group-title="FPT Service",FPT Play Giới thiệu chương trình 2
-udp://@225.1.4.200:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 1: VTV1
-udp://@225.1.1.21:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 2: VTV2
-udp://@225.1.1.22:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 3: VTV3
-udp://@225.1.1.23:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 4: VTV4
-udp://@225.1.1.24:30120
-#EXTINF:-1 group-title="FPT Service",Mosaic 5: VTV5
-udp://@225.1.1.25:30120
 #EXTINF:-1 group-title="FPT Service",Pladio
 udp://@225.1.2.244:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 1: Event 
+udp://@225.1.1.21:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 2: Event 
+udp://@225.1.1.22:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 3: Event
+udp://@225.1.1.23:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 4: Event
+udp://@225.1.1.24:30120
+#EXTINF:-1 group-title="FPT Service",Mosaic 5: Event
+udp://@225.1.1.25:30120
 #EXTINF:-1 group-title="FPT Service",Event 1
-udp://@225.1.1.27:30120
+udp://@225.1.1.10:30120
 #EXTINF:-1 group-title="FPT Service",Event 2
-udp://@225.1.1.33:30120
+udp://@225.1.1.12:30120
 #EXTINF:-1 group-title="FPT Service",Event 3
-udp://@225.1.1.34:30120
+udp://@225.1.1.15:30120
 #EXTINF:-1 group-title="FPT Service",Event 4
-udp://@225.1.1.72:30120
+udp://@225.1.1.27:30120
 #EXTINF:-1 group-title="FPT Service",Event 5
-udp://@225.1.1.92:30120
+udp://@225.1.1.28:30120
 #EXTINF:-1 group-title="FPT Service",Event 6
-udp://@225.1.1.94:30120
+udp://@225.1.1.30:30120
+#EXTINF:-1 group-title="FPT Service",Event 7
+udp://@225.1.1.31:30120
+#EXTINF:-1 group-title="FPT Service",Event 8
+udp://@225.1.1.33:30120
+#EXTINF:-1 group-title="FPT Service",Event 9
+udp://@225.1.1.69:30120
+#EXTINF:-1 group-title="FPT Service",Event 10
+udp://@225.1.1.100:30120
+#EXTINF:-1 group-title="FPT Service",Event 11
+udp://@225.1.1.101:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD x
 udp://@225.1.1.65:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD xx
 udp://@225.1.2.229:30120
 #EXTINF:-1 group-title="FPT Service",VTV3 HD xxx
 udp://@225.1.2.230:30120
-#-------------------Test udp 2-------------------#
-#EXTINF:-1 group-title="Test udp 2",BBC CBeeBies HD x
-udp://@225.1.2.39:30120
-#EXTINF:-1 group-title="Test udp 2",Animax HD x
-udp://@225.1.2.45:30120
-#EXTINF:-1 group-title="Test udp 2",Dreamworks HD x
-udp://@225.1.2.48:30120
-#EXTINF:-1 group-title="Test udp 2",HBO HD x
-udp://@225.1.2.54:30120
-#EXTINF:-1 group-title="Test udp 2",Fashion TV HD x
-udp://@225.1.2.117:30120
-#EXTINF:-1 group-title="Test udp 2",CINEMAX HD x
-udp://@225.1.2.143:30120
-#-------------------Test udp 3-------------------#
-#EXTINF:-1 group-title="Test udp 3",VTV1 HD xx
-udp://@225.1.3.1:30120
-#EXTINF:-1 group-title="Test udp 3",VTV3 HD xxxx
-udp://@225.1.3.2:30120
-#EXTINF:-1 group-title="Test udp 3",VTV Cần Thơ HD xx
-udp://@225.1.3.3:30120
-#EXTINF:-1 group-title="Test udp 3",VTV5 HD xx
-udp://@225.1.3.4:30120
-#EXTINF:-1 group-title="Test udp 3",VTV2 HD xx
-udp://@225.1.3.5:30120
-#EXTINF:-1 group-title="Test udp 3",VTV4 HD xx
-udp://@225.1.3.6:30120
-#EXTINF:-1 group-title="Test udp 3",Vĩnh Long 1 HD xx
-udp://@225.1.3.7:30120
-#EXTINF:-1 group-title="Test udp 3",HTV7 HD xx
-udp://@225.1.3.8:30120
-#EXTINF:-1 group-title="Test udp 3",VTV9 HD xx
-udp://@225.1.3.9:30120
-#EXTINF:-1 group-title="Test udp 3",HBO HD xx
-udp://@225.1.3.10:30120
-#EXTINF:-1 group-title="Test udp 3",VTV8 HD xx
-udp://@225.1.3.11:30120
-#EXTINF:-1 group-title="Test udp 3",HTV9 HD xx
-udp://@225.1.3.12:30120
-#EXTINF:-1 group-title="Test udp 3",HTV2 Vie Channel HD xx
-udp://@225.1.3.13:30120
-#EXTINF:-1 group-title="Test udp 3",Cinemax HD xx
-udp://@225.1.3.14:30120
-#EXTINF:-1 group-title="Test udp 3",VTV7 HD xx
-udp://@225.1.3.15:30120
-#EXTINF:-1 group-title="Test udp 3",Vĩnh Long 3 HD xx
-udp://@225.1.3.16:30120
-#EXTINF:-1 group-title="Test udp 3",Cartoon Network HD xx
-udp://@225.1.3.17:30120
-#EXTINF:-1 group-title="Test udp 3",AXN HD xx
-udp://@225.1.3.18:30120
-#EXTINF:-1 group-title="Test udp 3",Vĩnh Long 2 HD xx
-udp://@225.1.3.19:30120
-#EXTINF:-1 group-title="Test udp 3",Vĩnh Long 4 HD xx
-udp://@225.1.3.20:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC Du Lịch và Cuộc sống HD xx
-udp://@225.1.3.21:30120
-#EXTINF:-1 group-title="Test udp 3",Hà Nội 1 HD xx
-udp://@225.1.3.22:30120
-#EXTINF:-1 group-title="Test udp 3",ANTV HD xx
-udp://@225.1.3.23:30120
-#EXTINF:-1 group-title="Test udp 3",Đồng Tháp 1 HD xx
-udp://@225.1.3.24:30120
-#EXTINF:-1 group-title="Test udp 3",HTV Thể Thao HD xx
-udp://@225.1.3.25:30120
-#EXTINF:-1 group-title="Test udp 3",WBTV HD xx
-udp://@225.1.3.26:30120
-#EXTINF:-1 group-title="Test udp 3",Animal Planet HD xx
-udp://@225.1.3.27:30120
-#EXTINF:-1 group-title="Test udp 3",Thuần Việt HD xx
-udp://@225.1.3.28:30120
-#EXTINF:-1 group-title="Test udp 3",France 24 (eng) HD xx
-udp://@225.1.3.29:30120
-#EXTINF:-1 group-title="Test udp 3",Da Vinci HD xx
-udp://@225.1.3.30:30120
-#EXTINF:-1 group-title="Test udp 3",VTC9 HD xx
-udp://@225.1.3.31:30120
-#EXTINF:-1 group-title="Test udp 3",Baby TV HD xx
-udp://@225.1.3.32:30120
-#EXTINF:-1 group-title="Test udp 3",Nat Geo Wild HD xx
-udp://@225.1.3.33:30120
-#EXTINF:-1 group-title="Test udp 3",SCTV6 HD xx
-udp://@225.1.3.34:30120
-#EXTINF:-1 group-title="Test udp 3",VTC7 xx
-udp://@225.1.3.35:30120
-#EXTINF:-1 group-title="Test udp 3",HTV3 xx
-udp://@225.1.3.36:30120
-#EXTINF:-1 group-title="Test udp 3",VTC14 HD xx
-udp://@225.1.3.37:30120
-#EXTINF:-1 group-title="Test udp 3",Animax HD xx
-udp://@225.1.3.38:30120
-#EXTINF:-1 group-title="Test udp 3",Dreamworks HD xx
-udp://@225.1.3.39:30120
-#EXTINF:-1 group-title="Test udp 3",Discovery Channel HD xx
-udp://@225.1.3.40:30120
-#EXTINF:-1 group-title="Test udp 3",Nhân Dân TV HD xx
-udp://@225.1.3.41:30120
-#EXTINF:-1 group-title="Test udp 3",VTV5 Tây Nam Bộ HD xx
-udp://@225.1.3.42:30120
-#EXTINF:-1 group-title="Test udp 3",Vĩnh Phúc HD xx
-udp://@225.1.3.43:30120
-#EXTINF:-1 group-title="Test udp 3",Trà Vinh HD xx
-udp://@225.1.3.44:30120
-#EXTINF:-1 group-title="Test udp 3",Discovery Asia HD xx
-udp://@225.1.3.45:30120
-#EXTINF:-1 group-title="Test udp 3",Tiền Giang HD xx
-udp://@225.1.3.46:30120
-#EXTINF:-1 group-title="Test udp 3",Asian Food Network HD xx
-udp://@225.1.3.47:30120
-#EXTINF:-1 group-title="Test udp 3",VTC3 HD xx
-udp://@225.1.3.48:30120
-#EXTINF:-1 group-title="Test udp 3",Tuyên Quang HD xx
-udp://@225.1.3.49:30120
-#EXTINF:-1 group-title="Test udp 3",VTC1 HD xx
-udp://@225.1.3.50:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC Thuần Việt xx
-udp://@225.1.3.51:30120
-#EXTINF:-1 group-title="Test udp 3",Hải Phòng+ HD xx
-udp://@225.1.3.52:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC Phụ Nữ HD xx
-udp://@225.1.3.53:30120
-#EXTINF:-1 group-title="Test udp 3",QPVN HD xx
-udp://@225.1.3.54:30120
-#EXTINF:-1 group-title="Test udp 3",BBC Earth HD xx
-udp://@225.1.3.55:30120
-#EXTINF:-1 group-title="Test udp 3",Tây Ninh HD xx
-udp://@225.1.3.56:30120
-#EXTINF:-1 group-title="Test udp 3",TLC HD xx
-udp://@225.1.3.57:30120
-#EXTINF:-1 group-title="Test udp 3",BTV9 An Viên HD xx
-udp://@225.1.3.58:30120
-#EXTINF:-1 group-title="Test udp 3",NGC HD xx
-udp://@225.1.3.59:30120
-#EXTINF:-1 group-title="Test udp 3",Đồng Nai 1 HD xx
-udp://@225.1.3.60:30120
-#EXTINF:-1 group-title="Test udp 3",VNEWS HD xx
-udp://@225.1.3.61:30120
-#EXTINF:-1 group-title="Test udp 3",Thái Nguyên 1 HD xx
-udp://@225.1.3.62:30120
-#EXTINF:-1 group-title="Test udp 3",Boomerang HD xx
-udp://@225.1.3.63:30120
-#EXTINF:-1 group-title="Test udp 3",Bình Dương 1 HD xx
-udp://@225.1.3.64:30120
-#EXTINF:-1 group-title="Test udp 3",Đồng Nai 2 HD xx
-udp://@225.1.3.65:30120
-#EXTINF:-1 group-title="Test udp 3",BBC Lifestyle HD xx
-udp://@225.1.3.66:30120
-#EXTINF:-1 group-title="Test udp 3",Kiên Giang HD xx
-udp://@225.1.3.67:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC Phim HD xx
-udp://@225.1.3.68:30120
-#EXTINF:-1 group-title="Test udp 3",Cần Thơ HD xx
-udp://@225.1.3.69:30120
-#EXTINF:-1 group-title="Test udp 3",TV5 Monde Asie HD xx
-udp://@225.1.3.70:30120
-#EXTINF:-1 group-title="Test udp 3",Phú Thọ HD xx
-udp://@225.1.3.71:30120
-#EXTINF:-1 group-title="Test udp 3",Fashion TV HD xx
-udp://@225.1.3.72:30120
-#EXTINF:-1 group-title="Test udp 3",Vũng Tàu HD xx
-udp://@225.1.3.73:30120
-#EXTINF:-1 group-title="Test udp 3",Khánh Hòa HD xx
-udp://@225.1.3.74:30120
-#EXTINF:-1 group-title="Test udp 3",VTC4 HD xx
-udp://@225.1.3.75:30120
-#EXTINF:-1 group-title="Test udp 3",Kix HD xx
-udp://@225.1.3.76:30120
-#EXTINF:-1 group-title="Test udp 3",Đồng Tháp 2 HD xx
-udp://@225.1.3.77:30120
-#EXTINF:-1 group-title="Test udp 3",Quốc Hội HD xx
-udp://@225.1.3.78:30120
-#EXTINF:-1 group-title="Test udp 3",BBC CbeeBies HD xx
-udp://@225.1.3.79:30120
-#EXTINF:-1 group-title="Test udp 3",Hải Phòng HD xx
-udp://@225.1.3.80:30120
-#EXTINF:-1 group-title="Test udp 3",Cinema World HD xx
-udp://@225.1.3.81:30120
-#EXTINF:-1 group-title="Test udp 3",Bình Dương 2 HD xx
-udp://@225.1.3.82:30120
-#EXTINF:-1 group-title="Test udp 3",Bình Dương 4 HD xx
-udp://@225.1.3.83:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC Gia Đình HD xx
-udp://@225.1.3.84:30120
-#EXTINF:-1 group-title="Test udp 3",Outdoor Channel HD xx
-udp://@225.1.3.85:30120
-#EXTINF:-1 group-title="Test udp 3",CNA HD xx
-udp://@225.1.3.86:30120
-#EXTINF:-1 group-title="Test udp 3",BBC News HD xx
-udp://@225.1.3.87:30120
-#EXTINF:-1 group-title="Test udp 3",VTC13 HD xx
-udp://@225.1.3.88:30120
-#EXTINF:-1 group-title="Test udp 3",VTC16 HD xx
-udp://@225.1.3.89:30120
-#EXTINF:-1 group-title="Test udp 3",CNN HD xx
-udp://@225.1.3.90:30120
-#EXTINF:-1 group-title="Test udp 3",ABC Australia HD xx
-udp://@225.1.3.91:30120
-#EXTINF:-1 group-title="Test udp 3",NHK World Japan HD  xx
-udp://@225.1.3.92:30120
-#EXTINF:-1 group-title="Test udp 3",KBS World HD xx
-udp://@225.1.3.93:30120
-#EXTINF:-1 group-title="Test udp 3",DW (Eng) HD xx
-udp://@225.1.3.94:30120
-#EXTINF:-1 group-title="Test udp 3",Bloomberg HD xx
-udp://@225.1.3.95:30120
-#EXTINF:-1 group-title="Test udp 3",Bình Dương 3 HD xx
-udp://@225.1.3.96:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC Ca Nhạc HD xx
-udp://@225.1.3.97:30120
-#EXTINF:-1 group-title="Test udp 3",HTVC+ HD xx
-udp://@225.1.3.98:30120
-#EXTINF:-1 group-title="Test udp 3",Đà Nẵng TV1 HD xx
-udp://@225.1.3.99:30120
-#EXTINF:-1 group-title="Test udp 3",Cà Mau HD xx
-udp://@225.1.3.100:30120
-#-------------------K+ (DRM)-------------------#
-#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/diHhSPR.jpg",K+ Cine (DRM)
-udp://@225.1.1.5:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/cjb5geD.jpg",K+ Life (DRM)
-udp://@225.1.1.6:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/mEhtHgM.jpg",K+ Sports 1 (DRM)
-udp://@225.1.1.73:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/QwYp41Y.jpg",K+ Sports 2 (DRM)
-udp://@225.1.1.77:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://imgur.com/M1WQfVE.jpg",K+ Kids (DRM)
-udp://@225.1.1.76:30120
