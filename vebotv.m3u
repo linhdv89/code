@@ -1,3 +1,8 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#List chia sẻ dành cho anh em đam mê BLV vebotv và thapcamtv
+
+
+
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 0
 https://obevcimanyd179314182.thapcam.link/live/may00FHD/playlist.m3u8
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 1
