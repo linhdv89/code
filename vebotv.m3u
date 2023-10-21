@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #List chia sẻ dành cho anh em đam mê BLV vebotv và thapcamtv
-
+#Cảm ơn các chủ list đã chia sẻ link: vthanh, cvmedia, antmedia...
 
 
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 0
@@ -29,3 +29,8 @@ https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
 https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 12 - Người Sói
 https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
+
+#EXTINF:-1 group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD
+http://103.82.26.118/live_restream/ksport1hd/index.m3u8
+#EXTINF:-1 group-title="💕|Tổng hợp" tvg-logo="https://i.imgur.com/0sf3QKT.jpg", HCATV - Phim Hay
+https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b228915playlist.m3u8
