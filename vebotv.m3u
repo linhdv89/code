@@ -30,5 +30,15 @@ https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 12 - Người Sói
 https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
 
-#EXTINF:-1 group-title="Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
-http://stream.cvmtv.site/StarSL1?token=live
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Kẹo
+http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita2.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music
+http://vthanhtivi.pw:5000/live2/mpegts
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music (Server 2)
+https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies
+http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies (Server 2)
+http://stream.vthanhtivi.pw:5080/LiveApp/streams/okita.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies (Server 3)
+https://code.vthanhtivi.pw/getlink/onlive/quanghyyy222/231105.m3u8
