@@ -2,9 +2,12 @@
 #List chia sẻ dành cho anh em đam mê BLV vebotv và thapcamtv
 #Cảm ơn các chủ list đã chia sẻ link: vthanh, cvmedia, antmedia...
 
-
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 0 - Thỏ Moon Sói và Cồn
-https://obevcimanyd179314182.thapcam.link/live/may00FHD/playlist.m3u8
+#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z1 - Thỏ Moon Sói và Cồn
+https://obevcimanyd179314182.thapcam.link/live/Z1FHD/chunklist.m3u8
+#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z2 - Thỏ Moon Sói và Cồn
+https://obevcimanyd179314182.thapcam.link/live/Z2FHD/chunklist.m3u8
+#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z3 - Thỏ Moon Sói và Cồn
+https://obevcimanyd179314182.thapcam.link/live/Z3FHD/chunklist.m3u8
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 1 - Thỏ Moon Sói và Cồn
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 2 - Thỏ Moon Sói và Cồn
@@ -21,24 +24,7 @@ https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
 https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8
 #EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 8 - Batman
 https://obevcimanyd179314182.thapcam.link/live/batFHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 9 - Người Nện 
-https://obevcimanyd179314182.thapcam.link/live/Z2FHD/chunklist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 10 - Phở Bò
+#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 9 - Phở Bò
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 11 - Mỳ Tôm 
-https://obevcimanyd179314182.thapcam.link/live/Z3FHD/chunklist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 12 - Người Sói
+#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 10 - Người Sói
 https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhevent.png", VThanh Kẹo
-http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita2.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music
-http://vthanhtivi.pw:5000/live2/mpegts
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmusic.png", VThanh Music (Server 2)
-https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies
-http://stream2.vthanhtivi.pw:5080/LiveApp/streams/okita.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies (Server 2)
-http://stream.vthanhtivi.pw:5080/LiveApp/streams/okita.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhmovies.png", VThanh Movies (Server 3)
-https://code.vthanhtivi.pw/getlink/onlive/quanghyyy222/231105.m3u8
