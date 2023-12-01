@@ -1,30 +1,52 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#List chia sẻ dành cho anh em đam mê BLV vebotv và thapcamtv
-#Cảm ơn các chủ list đã chia sẻ link: vthanh, cvmedia, antmedia...
+#List chia sẻ dành cho anh em đam mê BLV vebotv và rakhoitv
 
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z1 - Thỏ Moon Sói và Cồn
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z1 - Thỏ Moon Sói và Cồn
 https://obevcimanyd179314182.thapcam.link/live/Z1FHD/chunklist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z2 - Thỏ Moon Sói và Cồn
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z2 - Thỏ Moon Sói và Cồn
 https://obevcimanyd179314182.thapcam.link/live/Z2FHD/chunklist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z3 - Thỏ Moon Sói và Cồn
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv Z3 - Thỏ Moon Sói và Cồn
 https://obevcimanyd179314182.thapcam.link/live/Z3FHD/chunklist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 1 - Thỏ Moon Sói và Cồn
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 1 - Thỏ Moon Sói và Cồn
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 2 - Thỏ Moon Sói và Cồn
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 2 - Thỏ Moon Sói và Cồn
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 3 - Thỏ Moon Sói và Cồn
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 3 - Thỏ Moon Sói và Cồn
 https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 4 - Oldmen Người già
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 4 - Oldmen Người già
 https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 5 - Bún Chả
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 5 - Bún Chả
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 6 - Trâu Gác Bếp
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 6 - Trâu Gác Bếp
 https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 7 - Bánh Cuốn
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 7 - Bánh Cuốn
 https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 8 - Batman
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 8 - Batman
 https://obevcimanyd179314182.thapcam.link/live/batFHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 9 - Phở Bò
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 9 - Phở Bò
 https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 group-title="Trực tiếp" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 10 - Người Sói
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://i.ibb.co/cy0Tbxg/vebotv.png",VEBOtv 10 - Người Sói
 https://obevcimanyd179314182.thapcam.link/live/soiFHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 1-Giàng A Lú
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 2-Giàng A Lử
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luhd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 3-Giàng A Khoai
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@khoaihd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 4-Giàng A Phọt
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phothd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 5 -Giàng A Chất
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 6-Giàng A Cỏ
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 7-Giàng A Táo
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 8-Giàng A Lôi
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loihd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 9-H+
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@hplushd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 10-Cá Heo
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@caheohd1.flv
+#EXTINF:-1 group-title="Ra Khơi TV" tvg-logo="https://70303d714.vws.vegacdn.vn/cakhiastatic/weblanding/logo-rk.png",RAKHOI 11-Thợ Lặn
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@tholanhd1.flv
